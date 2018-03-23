@@ -3,4 +3,8 @@
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="OptimizeImports" />
+  <action id="Vcs.MoveChangedLinesToChangelist">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+  </action>
 </keymap>
