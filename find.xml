@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'effective-idea'" />
-    <option name="defaultScopeName" value="Project 'effective-idea'" />
-    <option name="SEARCH_SCOPE" value="Project 'effective-idea'" />
+    <option name="customScope" value="Project 'spring-framework'" />
+    <option name="defaultScopeName" value="Project 'spring-framework'" />
+    <option name="SEARCH_SCOPE" value="Project 'spring-framework'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
