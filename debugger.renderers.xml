@@ -19,5 +19,17 @@
       <option name="NAME" value="Primitive" />
       <option name="SHOW_HEX_VALUE" value="false" />
     </Renderer>
+    <CustomRenderers VERSION="8">
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="NAME" value="unnamed" />
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.jetbrains.debugger.RandomGenerator.Fruit" />
+        <Renderer ID="LabelRenderer" role="label">
+          <option name="QUALIFIED_NAME" value="com.jetbrains.debugger.RandomGenerator.Fruit" />
+          <option name="ON_DEMAND" value="false" />
+          <option name="LABEL_EXPRESSION" value="this.toString()&#13;&#13;JAVA" />
+        </Renderer>
+      </Renderer>
+    </CustomRenderers>
   </component>
 </application>
