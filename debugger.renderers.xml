@@ -23,11 +23,11 @@
       <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="unnamed" />
         <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="com.jetbrains.debugger.RandomGenerator.Fruit" />
+        <option name="QUALIFIED_NAME" value="com.jetbrains.debugger.DebuggerMain.Fruit" />
         <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="com.jetbrains.debugger.RandomGenerator.Fruit" />
+          <option name="QUALIFIED_NAME" value="com.jetbrains.debugger.DebuggerMain.Fruit" />
           <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="this.toString()&#13;&#13;JAVA" />
+          <option name="LABEL_EXPRESSION" value="this.getName() + &quot; &quot; + this.taste&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>
