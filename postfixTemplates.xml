@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="lch@userDefined" key=".lch" provider="builtin.java" language-level="1.3" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="$EXPR$.lastChar()" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
