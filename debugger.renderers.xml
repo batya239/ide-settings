@@ -27,7 +27,7 @@
         <Renderer ID="LabelRenderer" role="label">
           <option name="QUALIFIED_NAME" value="com.jetbrains.debugger.DebuggerMain.Fruit" />
           <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="this.getName() + &quot; &quot; + this.taste&#13;&#13;JAVA" />
+          <option name="LABEL_EXPRESSION" value="this.name + &quot; &quot; + this.taste&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>
