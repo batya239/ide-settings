@@ -5,7 +5,4 @@
     <EXCLUDED_PACKAGE NAME="java.lang.System.Logger" />
     <EXCLUDED_PACKAGE NAME="sun.jvm" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
 </application>
