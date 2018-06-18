@@ -9,5 +9,6 @@
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="cidr.navigation.gotoDeclaration.overrides.showUsages" value="false" />
     <entry key="show.affected.tests.in.changelists" value="true" />
+    <entry key="testDiscovery.enabled" value="true" />
   </component>
 </application>
