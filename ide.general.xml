@@ -7,5 +7,7 @@
     <entry key="java.completion.argument.hints.internal" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="editor.distraction.free.mode" value="true" />
+    <entry key="cidr.navigation.gotoDeclaration.overrides.showUsages" value="false" />
+    <entry key="show.affected.tests.in.changelists" value="true" />
   </component>
 </application>
