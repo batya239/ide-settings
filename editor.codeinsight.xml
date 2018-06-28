@@ -2,6 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="SHOW_EXTERNAL_ANNOTATIONS_INLINE" value="false" />
     <option name="SHOW_METHOD_CHAIN_TYPES_INLINE" value="false" />
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
     <EXCLUDED_PACKAGE NAME="java.lang.System.Logger" />
     <EXCLUDED_PACKAGE NAME="sun.jvm" />
   </component>
