@@ -23,11 +23,11 @@
       <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="unnamed" />
         <option name="ENABLED" value="true" />
-        <option name="QUALIFIED_NAME" value="com.jetbrains.debugger.DebuggerMain.Fruit" />
+        <option name="QUALIFIED_NAME" value="com.intellij.codeInspection.reference.RefMethodImpl" />
         <Renderer ID="LabelRenderer" role="label">
-          <option name="QUALIFIED_NAME" value="com.jetbrains.debugger.DebuggerMain.Fruit" />
+          <option name="QUALIFIED_NAME" value="com.intellij.codeInspection.reference.RefMethodImpl" />
           <option name="ON_DEMAND" value="false" />
-          <option name="LABEL_EXPRESSION" value="this.name + &quot; &quot; + this.taste&#13;&#13;JAVA" />
+          <option name="LABEL_EXPRESSION" value="this.getOwner().getName() + &quot;.&quot; + getName()&#13;&#13;JAVA" />
         </Renderer>
       </Renderer>
     </CustomRenderers>
