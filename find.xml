@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../community/java/java-impl/src/com/intellij/refactoring/rename/JavaVetoRenameCondition.java [intellij.java.impl]'" />
-    <option name="defaultScopeName" value="File '.../community/java/java-impl/src/com/intellij/refactoring/rename/JavaVetoRenameCondition.java [intellij.java.impl]'" />
-    <option name="SEARCH_SCOPE" value="File '.../community/java/java-impl/src/com/intellij/refactoring/rename/JavaVetoRenameCondition.java [intellij.java.impl]'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
