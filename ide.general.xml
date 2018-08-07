@@ -10,5 +10,6 @@
     <entry key="cidr.navigation.gotoDeclaration.overrides.showUsages" value="false" />
     <entry key="show.affected.tests.in.changelists" value="true" />
     <entry key="testDiscovery.enabled" value="true" />
+    <entry key="ssr.use.new.search.dialog" value="true" />
   </component>
 </application>
