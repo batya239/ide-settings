@@ -5,11 +5,19 @@
   </component>
   <component name="Registry">
     <entry key="java.completion.argument.hints.internal" value="false" />
-    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="editor.distraction.free.mode" value="true" />
     <entry key="cidr.navigation.gotoDeclaration.overrides.showUsages" value="false" />
     <entry key="show.affected.tests.in.changelists" value="true" />
     <entry key="testDiscovery.enabled" value="true" />
     <entry key="ssr.use.new.search.dialog" value="true" />
+    <entry key="bigger.font.in.project.view" value="true" />
+    <entry key="mac.editor.thumb.default.alpha.base" value="0" />
+    <entry key="mac.editor.thumb.default.alpha.delta" value="102" />
+    <entry key="mac.editor.thumb.darcula.alpha.base" value="0" />
+    <entry key="mac.editor.thumb.darcula.alpha.delta" value="102" />
+    <entry key="mac.editor.thumb.default.fill.min" value="102" />
+    <entry key="mac.editor.thumb.default.fill.max" value="150" />
+    <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
+    <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
   </component>
 </application>
