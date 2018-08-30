@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../community/jvm/jvm-analysis-kotlin-tests/testSrc/com/intellij/codeInspection/SameReturnValueInspectionTest.java [intellij.jvm.analysis.kotlin.tests]'" />
-    <option name="defaultScopeName" value="File '.../community/jvm/jvm-analysis-kotlin-tests/testSrc/com/intellij/codeInspection/SameReturnValueInspectionTest.java [intellij.jvm.analysis.kotlin.tests]'" />
-    <option name="SEARCH_SCOPE" value="File '.../community/jvm/jvm-analysis-kotlin-tests/testSrc/com/intellij/codeInspection/SameReturnValueInspectionTest.java [intellij.jvm.analysis.kotlin.tests]'" />
+    <option name="customScope" value="Selected Files" />
+    <option name="defaultScopeName" value="Selected Files" />
+    <option name="SEARCH_SCOPE" value="Selected Files" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
