@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'intellij.database.tests'" />
-    <option name="defaultScopeName" value="Module 'intellij.database.tests'" />
-    <option name="SEARCH_SCOPE" value="Module 'intellij.database.tests'" />
+    <option name="customScope" value="Module 'intellij.java.i18n'" />
+    <option name="defaultScopeName" value="Module 'intellij.java.i18n'" />
+    <option name="SEARCH_SCOPE" value="Module 'intellij.java.i18n'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
