@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../community/java/java-analysis-impl/src/com/intellij/codeInsight/daemon/impl/analysis/xxx.kt [intellij.java.analysis.impl]'" />
-    <option name="defaultScopeName" value="File '.../community/java/java-analysis-impl/src/com/intellij/codeInsight/daemon/impl/analysis/xxx.kt [intellij.java.analysis.impl]'" />
-    <option name="SEARCH_SCOPE" value="File '.../community/java/java-analysis-impl/src/com/intellij/codeInsight/daemon/impl/analysis/xxx.kt [intellij.java.analysis.impl]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
