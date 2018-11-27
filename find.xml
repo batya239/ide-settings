@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionTreeNode.java [intellij.platform.lang.impl]'" />
+    <option name="defaultScopeName" value="File '.../community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionTreeNode.java [intellij.platform.lang.impl]'" />
+    <option name="SEARCH_SCOPE" value="File '.../community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionTreeNode.java [intellij.platform.lang.impl]'" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
