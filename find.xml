@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionResultsView.java [intellij.platform.lang.impl]'" />
-    <option name="defaultScopeName" value="File '.../community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionResultsView.java [intellij.platform.lang.impl]'" />
-    <option name="SEARCH_SCOPE" value="File '.../community/platform/lang-impl/src/com/intellij/codeInspection/ui/InspectionResultsView.java [intellij.platform.lang.impl]'" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
