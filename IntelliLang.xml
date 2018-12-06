@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="kotlin" injector-id="java">
+      <display-name>CodeInsightTestFixture.addFileToProject (com.intellij.testFramework.fixtures)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("addFileToProject").withParameters("java.lang.String", "java.lang.String").definedInClass("com.intellij.testFramework.fixtures.CodeInsightTestFixture"))]]></place>
+    </injection>
+  </component>
+</application>
