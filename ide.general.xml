@@ -19,5 +19,6 @@
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="show.affected.tests.in.changelists" value="true" />
     <entry key="editor.distraction.free.mode" value="true" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
